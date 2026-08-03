@@ -54,8 +54,12 @@
 <tr>
 <td bgcolor="white" style="padding:15px; border-radius:10px;">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" />
+<p align="center" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgbYSknsrN1AMHIgO9dPb1vDC_71r7vcwG0T8sulAMVgxIaqbYWq-iNI&s=10" width="35" />
+
+
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
@@ -72,6 +76,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  
 </p>
 
 </td>
